@@ -1,0 +1,11 @@
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\bin\Debug\netcoreapp2.2\TareaNueva.deps.json
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\bin\Debug\netcoreapp2.2\TareaNueva.runtimeconfig.json
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\bin\Debug\netcoreapp2.2\TareaNueva.runtimeconfig.dev.json
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\bin\Debug\netcoreapp2.2\TareaNueva.dll
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\bin\Debug\netcoreapp2.2\TareaNueva.pdb
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\obj\Debug\netcoreapp2.2\TareaNueva.csprojAssemblyReference.cache
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\obj\Debug\netcoreapp2.2\TareaNueva.csproj.CoreCompileInputs.cache
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\obj\Debug\netcoreapp2.2\TareaNueva.AssemblyInfoInputs.cache
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\obj\Debug\netcoreapp2.2\TareaNueva.AssemblyInfo.cs
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\obj\Debug\netcoreapp2.2\TareaNueva.dll
+C:\Users\LeandroGG\source\repos\TareaNueva\TareaNueva\obj\Debug\netcoreapp2.2\TareaNueva.pdb
